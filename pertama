@@ -1,0 +1,9 @@
+Ini adalah project pertama
+
+include <stdio.h>
+
+int main(){
+  printf("Hello world");
+  
+  return 0;
+}
