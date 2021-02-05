@@ -1,5 +1,6 @@
 Ini adalah project pertama
 
+/////
 include <stdio.h>
 
 int main(){
@@ -7,3 +8,6 @@ int main(){
   
   return 0;
 }
+/////
+
+sekarang ini adalah commit  ke-2
