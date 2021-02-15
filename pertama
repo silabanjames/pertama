@@ -1,16 +1,18 @@
 Ini adalah project pertama
 
-/////
+
 include <stdio.h>
 
 int main(){
-  printf("Hello world");
-  
+  int a;
+  scanf("%d", &a);
+  if(a%2==0){
+    printf("Bilangan Prima");
+  }
+  else{
+    printf("Bukan Bilangan Prima");
+  }
   return 0;
 }
-/////
-
-sekarang ini adalah commit  ke-2
 
 
-sekarang akan mencoba branch pertama
