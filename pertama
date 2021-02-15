@@ -3,6 +3,7 @@ Ini adalah project pertama
 
 include <stdio.h>
 
+-----Program menentukan bilangan prima
 int main(){
   int a;
   scanf("%d", &a);
@@ -15,4 +16,8 @@ int main(){
   return 0;
 }
 
+-----List yang ingin dipelajari
+- Belajar Algoritma lebih teliti
+- Belajar keamanan data
+- Belajar bahasa spanyol ataupun italia
 
