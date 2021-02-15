@@ -1,6 +1,6 @@
 Ini adalah project pertama
 
-
+-----Program Menentukan bilangan prima
 include <stdio.h>
 
 int main(){
@@ -15,4 +15,9 @@ int main(){
   return 0;
 }
 
+-----List yang ingin dipelajari:
+- Frontend and Backend
+- Bahasa Ingrris
+- Bahasa Jepang
+- Bahasa Korea
 
